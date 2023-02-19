@@ -3,7 +3,7 @@
 ## Saya Alifia Isti Fadhila mengerjakan Latihan 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ### Desain Program
-![Design DPBO](https://user-images.githubusercontent.com/99643681/219927108-8ee727fa-d329-4463-bdc6-95a9754f53dd.png)
+![Design DPBO (1)](https://user-images.githubusercontent.com/99643681/219929315-d141c6d7-dc8a-41ed-b396-889387c17ed4.png)
 
 ### Penjelasan Alur
 Class Human yang memiliki atribut NIK, Nama dan Jenis Kelamin menjadi parent dari class Mahasiswa (NIM, Program Studi, Fakultas). Selanjutnya class Mahasiswa tersebut akan mewariskan atau menjadi parent dari class SivitasAkademik (Asal Universitas, Email Edu). 
